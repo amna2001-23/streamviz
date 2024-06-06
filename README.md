@@ -51,4 +51,4 @@ To set up the StreamViz application, follow these steps:
 ## Usage
 To run the StreamViz application, execute the following command:
 ```bash
-streamlit run app.py
+streamlit run streamviz.py
